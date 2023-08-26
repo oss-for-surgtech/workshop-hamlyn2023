@@ -39,6 +39,9 @@ Dr. Thomas Dowrick, University College London
 Mr Stephen Thompson, University College London  
 Prof. Matt Clarkson,University College London  
 
+## Community
+Join our discord server
+https://discord.gg/nZKtJrz8
 
 ## Clone repository
 * Generate your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
