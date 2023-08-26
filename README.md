@@ -34,14 +34,19 @@ Participants of the workshop will be exposed to leading authors of state-of-the-
 * Discussions on trends and the future of Surgical Technologies: how to quickly adopt the latest technologies (e.g., artificial intelligence, augmented reality, high-performance computing, etc) while still complying with relevant quality standards.
 
 ## Organisers
-Dr. Miguel Xochicale, University College London  
-Dr. Thomas Dowrick, University College London  
 Mr Stephen Thompson, University College London  
+Dr. Thomas Dowrick, University College London  
 Prof. Matt Clarkson,University College London  
+Dr. Miguel Xochicale, University College London  **Lead organiser**
 
 ## Community
 Join our discord server
 https://discord.gg/nZKtJrz8
+
+Also we have discussions to Ask questions you’re wondering about; Share ideas; Engage with other community members; Welcome others and are open-minded. 
+https://github.com/oss-for-surgtech/workshop-hamlyn2023/discussions
+
+Remember that this is a community we build together 💪.
 
 ## Clone repository
 * Generate your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
