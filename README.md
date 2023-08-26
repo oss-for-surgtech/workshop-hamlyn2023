@@ -15,17 +15,17 @@ Open-source software libraries for computer assisted surgery (e.g. Scikit-surger
 However, research-driven technologies bring challenges on the use of the latest generation of hardware; fast prototyping and validation of new algorithms; fragmented source code for heterogenous systems; high performance of medical image computing and visualisation in the operating room and standardisation of data quality and data privacy. Such challenges raise the question of how to make open-source software libraries more sustainable, long-term supported and translatable to the clinic. This workshop aims to bring together engineers, researchers and clinicians to present and to discuss current progress, challenges and trends on open-source software interfaces for Surgical Technologies.
 
 ## Programme
-| Time   | Title | Speaker | Links |
-| -- | -- | -- |-------|
-| 09:00  | Opening: Welcome & Introduction | Miguel Xochicale |       | 
-| 09:05  | 3D Slicer as your medical software development platform: Why and How | Steve Pieper | :tv: :book: | 
-| 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | Stephen R. Aylward (online) | :tv: :book: |
-| 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | Rachel Sparks | :tv: :book: |
-| 10:30  | Coffee Break | -- | 
-| 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | Stephen Thompson | :tv: :book: |
-| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | Alejandro Granados | :tv: :book: |
-| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | José Alonso Solís-Lemus | :tv: :book: |
-| 11:45  | SlicerROS2: ROS for Medical Robotics | Laura Connolly | :tv: :book: |
+| Time   | Title | Speaker                                 | Links       |
+| -- | -- |-----------------------------------------|-------------|
+| 09:00  | Opening: Welcome & Introduction | Miguel Xochicale                        |  | 
+| 09:05  | 3D Slicer as your medical software development platform: Why and How | [Steve Pieper](speakers/Steve-Pieper)   | :tv: :book: | 
+| 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | [Stephen R. Aylward](speakers/Stephen-R-Aylward) (online) | :tv: :book: |
+| 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | [Rachel Sparks](speakers/Rachel-Sparks)                          | :tv: :book: |
+| 10:30  | Coffee Break | --                                      | 
+| 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | [Stephen Thompson](speakers/Stephen-Thompson)                       | :tv: :book: |
+| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados)                     | :tv: :book: |
+| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus)                 | :tv: :book: |
+| 11:45  | SlicerROS2: ROS for Medical Robotics | [Laura Connolly](speakers/Laura-Connolly)                          | :tv: :book: |
 
 ## Learning Outcomes
 Participants of the workshop will be exposed to leading authors of state-of-the-art open-source platforms for Surgical Technolgies aiming to have the following learning outcomes:
