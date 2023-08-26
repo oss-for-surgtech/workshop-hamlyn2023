@@ -17,21 +17,21 @@ However, research-driven technologies bring challenges on the use of the latest 
 ## Programme
 | Time   | Title | Speaker                                 | Links       |
 | -- | -- |-----------------------------------------|-------------|
-| 09:00  | Opening: Welcome & Introduction | Miguel Xochicale                        |  | 
+| 09:00  | Opening: Welcome & Introduction | [Miguel Xochicale](speakers/Miguel-Xochicale)                       |  | 
 | 09:05  | 3D Slicer as your medical software development platform: Why and How | [Steve Pieper](speakers/Steve-Pieper)   | :tv: :book: | 
 | 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | [Stephen R. Aylward](speakers/Stephen-R-Aylward) (online) | :tv: :book: |
 | 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | [Rachel Sparks](speakers/Rachel-Sparks)                          | :tv: :book: |
 | 10:30  | Coffee Break | --                                      | 
 | 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | [Stephen Thompson](speakers/Stephen-Thompson)                       | :tv: :book: |
-| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados)                     | :tv: :book: |
-| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus)                 | :tv: :book: |
+| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados)                    | :tv: :book: |
+| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus)                | :tv: :book: |
 | 11:45  | SlicerROS2: ROS for Medical Robotics | [Laura Connolly](speakers/Laura-Connolly)                          | :tv: :book: |
 
 ## Learning Outcomes
 Participants of the workshop will be exposed to leading authors of state-of-the-art open-source platforms for Surgical Technolgies aiming to have the following learning outcomes:
-Developing open-source software interfaces including best practices of software engineering (e.g. maintenance, sustainability, etc) to create clinical impact.
-Good practices for clinical translation including best practices to integrate preoperative and intraoperative data (e.g., tracking systems and clinical hardware), and protocols to handle clinical data for computer assisted surgical technologies.
-Discussions on trends and the future of Surgical Technologies: how to quickly adopt the latest technologies (e.g., artificial intelligence, augmented reality, high-performance computing, etc) while still complying with relevant quality standards.
+* Developing open-source software interfaces including best practices of software engineering (e.g. maintenance, sustainability, etc) to create clinical impact.
+* Good practices for clinical translation including best practices to integrate preoperative and intraoperative data (e.g., tracking systems and clinical hardware), and protocols to handle clinical data for computer assisted surgical technologies.
+* Discussions on trends and the future of Surgical Technologies: how to quickly adopt the latest technologies (e.g., artificial intelligence, augmented reality, high-performance computing, etc) while still complying with relevant quality standards.
 
 ## Organisers
 Dr. Miguel Xochicale, University College London  

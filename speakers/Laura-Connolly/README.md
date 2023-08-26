@@ -1,5 +1,5 @@
 # Laura Connolly
-![fig](laura-connolly-300x269.png)
+![fig](Laura-Connolly.png)
 
 ## Biography 
 Laura Connolly is a Ph.D. Student in Electrical Engineering at Queen’s University in Kingston, ON, Canada. She is mentored by Dr. Gabor Fichtinger, Dr. Parvin Mousavi and Dr. Russell H. Taylor. As of June 2023, Laura is on her second visiting studentship at Johns Hopkins University in Baltimore, MD, USA.

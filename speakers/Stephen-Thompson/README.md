@@ -1,5 +1,5 @@
 # Stephen Thompson
-![fig](stephen-thompson_0-300x300.jpg)
+![fig](Stephen-Thompson.jpg)
 
 ## Biography 
 Dr. Stephen Thompson is a researcher and research software engineer working in the field of computer assisted healthcare. They began research in this field in 2006 and completed their PhD at UCL in 2010. Since then they have developed software and published research in the field of augmented reality applied to surgical interventions. They have performed research applied to minimally invasive abdominal and orthopaedic surgery.

@@ -1,5 +1,5 @@
 # Miguel Xochicale
-![fig](Miguel-300x300.jpeg)
+![fig](Miguel-Xochicale.jpeg)
 
 ## Biography 
 Miguel is a Research Engineer at University College London within the Advanced Research Computing Centre and Wellcome and the EPSRC Centre for Interventional and Surgical Sciences (WEISS) where he is advancing AI-based Surgical Navigation tools. Previously, he was a Research Associate at King’s College London (KCL) within the School of Biomedical Engineering and Imaging Sciences where in the Vietnam ICU Translational Applications Laboratory (VITAL) project, he scientifically contributed to automatic biometric recognition from Cardiac ultrasound data using deep learning techniques. Similarly, he pushed forward the state-of-the-art of ultrasound-guided procedures in the Guided Instrumentation for Fetal Therapy and Surgery (GIFT-Surg) project where he scientifically contributed to the development of new algorithms, software, hardware and medical device quality management system and public engagement activities. All the previous activities in collaboration with renowned clinicians, engineers and researchers in KCL, UCL and University of Oxford.

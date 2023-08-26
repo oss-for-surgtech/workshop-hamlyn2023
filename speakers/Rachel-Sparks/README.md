@@ -1,5 +1,5 @@
 # Rachel Sparks
-![fig](Rachel-Sparks-300x225.jpg)
+![fig](Rachel-Sparks.jpg)
 
 ## Biography
 Rachel Sparks, Ph.D. is a Lecturer in Surgical and Interventional Engineering at the School of Biomedical Engineering & Imaging Sciences, King’s College London since 2018. The primary focus of her research is on developing computer-assisted planning and image-guidance techniques to increase accuracy of medical diagnosis and improve safety during surgical interventions. As part of this work, she is the technical lead for EpiNav™: Epilepsy navigation, a software platform to aid in the planning of surgical interventions for the treatment of epilepsy that has been in development for over 10 years.
