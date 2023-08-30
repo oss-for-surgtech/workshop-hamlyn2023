@@ -18,14 +18,14 @@ However, research-driven technologies bring challenges on the use of the latest 
 | Time   | Title | Speaker                                 | Links       |
 | -- | -- |-----------------------------------------|-------------|
 | 09:00  | Opening: Welcome & Introduction | [Miguel Xochicale](speakers/Miguel-Xochicale)                       |  | 
-| 09:05  | 3D Slicer as your medical software development platform: Why and How | [Steve Pieper](speakers/Steve-Pieper)   | :tv: :book: | 
-| 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | [Stephen R. Aylward](speakers/Stephen-R-Aylward) (online) | :tv: :book: |
-| 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | [Rachel Sparks](speakers/Rachel-Sparks)                          | :tv: :book: |
+| 09:05  | 3D Slicer as your medical software development platform: Why and How | [Steve Pieper](speakers/Steve-Pieper)   | [:tv:](https://youtu.be/5O2dIgqLNtg) :book: | 
+| 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | [Stephen R. Aylward](speakers/Stephen-R-Aylward) (online) | [:tv:](https://youtu.be/oHwHXa_ROqs) :book: |
+| 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | [Rachel Sparks](speakers/Rachel-Sparks)                          | [:tv:](https://youtu.be/X29plu5d22c) :book: |
 | 10:30  | Coffee Break | --                                      | 
-| 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | [Stephen Thompson](speakers/Stephen-Thompson)                       | :tv: :book: |
-| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados)                    | :tv: :book: |
-| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus)                | :tv: :book: |
-| 11:45  | SlicerROS2: ROS for Medical Robotics | [Laura Connolly](speakers/Laura-Connolly)                          | :tv: :book: |
+| 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | [Stephen Thompson](speakers/Stephen-Thompson)                       | [:tv:](https://youtu.be/RuvsV6RFb7A) :book: |
+| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados)                    | [:tv:]() :book: |
+| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus)                | [:tv:](https://youtu.be/PsnEUMd2k50) :book: |
+| 11:45  | SlicerROS2: ROS for Medical Robotics | [Laura Connolly](speakers/Laura-Connolly)                          | [:tv:](https://youtu.be/OZBgR6te3Gs) :book: |
 
 ## Learning Outcomes
 Participants of the workshop will be exposed to leading authors of state-of-the-art open-source platforms for Surgical Technolgies aiming to have the following learning outcomes:
@@ -55,5 +55,4 @@ Remember that this is a community we build together 💪.
 cd && mkdir -p $HOME/repositories/oss-for-surgtech && cd  $HOME/repositories/oss-for-surgtech
 git clone git@github.com:oss-for-surgtech/workshop-hamlyn2023.git
 ```
-
 
