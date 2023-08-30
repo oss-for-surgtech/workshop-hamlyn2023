@@ -15,17 +15,18 @@ Open-source software libraries for computer assisted surgery (e.g. Scikit-surger
 However, research-driven technologies bring challenges on the use of the latest generation of hardware; fast prototyping and validation of new algorithms; fragmented source code for heterogenous systems; high performance of medical image computing and visualisation in the operating room and standardisation of data quality and data privacy. Such challenges raise the question of how to make open-source software libraries more sustainable, long-term supported and translatable to the clinic. This workshop aims to bring together engineers, researchers and clinicians to present and to discuss current progress, challenges and trends on open-source software interfaces for Surgical Technologies.
 
 ## Programme
-| Time   | Title | Speaker                                 | Links       |
-| -- | -- |-----------------------------------------|-------------|
-| 09:00  | Opening: Welcome & Introduction | [Miguel Xochicale](speakers/Miguel-Xochicale)                       |  | 
-| 09:05  | 3D Slicer as your medical software development platform: Why and How | [Steve Pieper](speakers/Steve-Pieper)   | [:tv:](https://youtu.be/5O2dIgqLNtg) :book: | 
-| 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | [Stephen R. Aylward](speakers/Stephen-R-Aylward) (online) | [:tv:](https://youtu.be/oHwHXa_ROqs) :book: |
-| 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | [Rachel Sparks](speakers/Rachel-Sparks)                          | [:tv:](https://youtu.be/X29plu5d22c) :book: |
+| Time   | Title | Speaker | Links  |
+| --     | --    | --      | --     |
+| 09:00  | Opening: Welcome & Introduction | [Miguel Xochicale](speakers/Miguel-Xochicale) |                                                                                                | 
+| 09:05  | 3D Slicer as your medical software development platform: Why and How | [Steve Pieper](speakers/Steve-Pieper)   | [:tv:](https://youtu.be/5O2dIgqLNtg) [:book:](speakers/Steve-Pieper/StevePieper-slides.pdf)    | 
+| 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | [Stephen R. Aylward](speakers/Stephen-R-Aylward) (online) | [:tv:](https://youtu.be/oHwHXa_ROqs) [:book:](speakers/Stephen-R-Aylward/StephenAylward-slides.pdf) |
+| 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | [Rachel Sparks](speakers/Rachel-Sparks) | [:tv:](https://youtu.be/X29plu5d22c) [:book:](speakers/Rachel-Sparks/RachelSparks-slides.pdf)  |
 | 10:30  | Coffee Break | --                                      | 
-| 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | [Stephen Thompson](speakers/Stephen-Thompson)                       | [:tv:](https://youtu.be/RuvsV6RFb7A) :book: |
-| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados)                    | [:tv:]() :book: |
-| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus)                | [:tv:](https://youtu.be/PsnEUMd2k50) :book: |
-| 11:45  | SlicerROS2: ROS for Medical Robotics | [Laura Connolly](speakers/Laura-Connolly)                          | [:tv:](https://youtu.be/OZBgR6te3Gs) :book: |
+| 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | [Stephen Thompson](speakers/Stephen-Thompson) | [:tv:](https://youtu.be/RuvsV6RFb7A) [:book:](speakers/Stephen-Thompson/StephenThompson-slides.pdf) |
+| 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados) | [:tv:]() :book:                                                                                |
+| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus) | [:tv:](https://youtu.be/PsnEUMd2k50) [:book:](speakers/Jose-Alonso-Solis-Lemus/JoseAlonsoSolisLemus-slides.pdf)
+  |
+| 11:45  | SlicerROS2: ROS for Medical Robotics | [Laura Connolly](speakers/Laura-Connolly) | [:tv:](https://youtu.be/OZBgR6te3Gs) [:book:](speakers/Laura-Connolly/LauraConnolly-slides.pdf)  |
 
 You can watch the talks of the workshop in this playlist: https://youtube.com/playlist?list=PLtGJkyfu0klZlvZkPyDLArhjs7i39C-ld&si=wmOQZ2Qr5_QDWrg3
 
