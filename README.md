@@ -24,8 +24,7 @@ However, research-driven technologies bring challenges on the use of the latest 
 | 10:30  | Coffee Break | --                                      | 
 | 11:00  | SciKit-Surgery: Creating modular code, limiting the size of software to enable researcher participation. | [Stephen Thompson](speakers/Stephen-Thompson) | [:tv:](https://youtu.be/RuvsV6RFb7A) [:book:](speakers/Stephen-Thompson/StephenThompson-slides.pdf) |
 | 11:15  | Towards Open, Reproducible and Collaborative Surgical Data Science | [Alejandro Granados](speakers/Alejandro-Granados) | [:tv:]() :book:                                                                                |
-| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus) | [:tv:](https://youtu.be/PsnEUMd2k50) [:book:](speakers/Jose-Alonso-Solis-Lemus/JoseAlonsoSolisLemus-slides.pdf)
-  |
+| 11:30  | CemrgApp: A Sustainable and Accessible Platform for Cardiovascular Research | [José Alonso Solís-Lemus](speakers/Jose-Alonso-Solis-Lemus) | [:tv:](https://youtu.be/PsnEUMd2k50) [:book:](speakers/Jose-Alonso-Solis-Lemus/JoseAlonsoSolisLemus-slides.pdf) |   
 | 11:45  | SlicerROS2: ROS for Medical Robotics | [Laura Connolly](speakers/Laura-Connolly) | [:tv:](https://youtu.be/OZBgR6te3Gs) [:book:](speakers/Laura-Connolly/LauraConnolly-slides.pdf)  |
 
 You can watch the talks of the workshop in this playlist: https://youtube.com/playlist?list=PLtGJkyfu0klZlvZkPyDLArhjs7i39C-ld&si=wmOQZ2Qr5_QDWrg3
