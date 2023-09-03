@@ -17,7 +17,7 @@ However, research-driven technologies bring challenges on the use of the latest 
 ## Programme
 | Time   | Title | Speaker | Links  |
 | --     | --    | --      | --     |
-| 09:00  | Opening: Welcome & Introduction | [Miguel Xochicale](speakers/Miguel-Xochicale) |                                                                                                | 
+| 09:00  | Opening: Welcome & Introduction | [Miguel Xochicale](speakers/Miguel-Xochicale) |  [:tv:](https://youtu.be/wGCUW0MoRbA)      |    
 | 09:05  | 3D Slicer as your medical software development platform: Why and How | [Steve Pieper](speakers/Steve-Pieper)   | [:tv:](https://youtu.be/5O2dIgqLNtg) [:book:](speakers/Steve-Pieper/StevePieper-slides.pdf)    | 
 | 09:30  | ITK, 3D Slicer, and MONAI: Creating and sustaining impact with open-source, medical imaging software | [Stephen R. Aylward](speakers/Stephen-R-Aylward) (online) | [:tv:](https://youtu.be/oHwHXa_ROqs) [:book:](speakers/Stephen-R-Aylward/StephenAylward-slides.pdf) |
 | 10:00  | Developing a surgical planning platform for long-term sustainability: one decade worth of lessons. | [Rachel Sparks](speakers/Rachel-Sparks) | [:tv:](https://youtu.be/X29plu5d22c) [:book:](speakers/Rachel-Sparks/RachelSparks-slides.pdf)  |
@@ -42,13 +42,16 @@ Prof. Matt Clarkson,University College London
 Dr. Miguel Xochicale, University College London  **(Lead organiser)**
 
 ## Community
-Join our discord server
-https://discord.gg/nZKtJrz8
-
-Also we have discussions to Ask questions you’re wondering about; Share ideas; Engage with other community members; Welcome others and are open-minded. 
+We have discussions to Ask questions you’re wondering about; Share ideas; Engage with other community members; Welcome others:  
 https://github.com/oss-for-surgtech/workshop-hamlyn2023/discussions
 
+Join our discord server https://discord.gg/nZKtJrz8
+
 Remember that this is a community we build together 💪.
+
+## White Paper 
+The aim of the white paper, in a short-term goal, is to encourage people in the workshop to collaboratively contribute and edit the project to create a comprehensive and valuable resource that benefits the entire community.
+Looking ahead, the long-term goal is to identify an appropriate venue where the white paper can be refined and prepared for submission. By taking this approach, If you have any thoughts, suggestions, or questions regarding this process, please do not hesitate to share them. Code, data and other resources to reproduce this work are available at https://github.com/oss-for-surgtech/white-paper.
 
 ## Clone repository
 * Generate your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
@@ -57,4 +60,3 @@ Remember that this is a community we build together 💪.
 cd && mkdir -p $HOME/repositories/oss-for-surgtech && cd  $HOME/repositories/oss-for-surgtech
 git clone git@github.com:oss-for-surgtech/workshop-hamlyn2023.git
 ```
-
