@@ -49,6 +49,10 @@ Join our discord server https://discord.gg/nZKtJrz8
 
 Remember that this is a community we build together 💪.
 
+## White Paper 
+The aim of the white paper, in a short-term goal, is to encourage people in the workshop to collaboratively contribute and edit the project to create a comprehensive and valuable resource that benefits the entire community.
+Looking ahead, the long-term goal is to identify an appropriate venue where the white paper can be refined and prepared for submission. By taking this approach, If you have any thoughts, suggestions, or questions regarding this process, please do not hesitate to share them. Code, data and other resources to reproduce this work are available at https://github.com/oss-for-surgtech/white-paper.
+
 ## Clone repository
 * Generate your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
 * Clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
